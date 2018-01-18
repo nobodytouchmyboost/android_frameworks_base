@@ -96,4 +96,6 @@
     <integer-array name="keypressboost_strong_param_value"/>
     <integer-array name="keypressboost_weak_param_value"/>
 
+    <bool name="config_dozeAlwaysOnDisplayEnabledDefault">true</bool>
+
 </resources>
